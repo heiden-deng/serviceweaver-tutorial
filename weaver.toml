@@ -1,2 +1,5 @@
-[single]
+[serviceweaver]
+binary = "./hello.exe"
+
+[multi]
 listeners.hello = {address = "localhost:12345"}
